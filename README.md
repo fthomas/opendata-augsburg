@@ -1,5 +1,7 @@
 # opendata-augsburg
 
+Linksammlung zu Open Data rund um Augsburg
+
 ## Augsburg
 
 * [Amt für Digitalisierung, Breitband und Vermessung Augsburg](http://www.vermessungsamt-augsburg.de)
