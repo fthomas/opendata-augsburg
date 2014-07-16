@@ -1,10 +1,11 @@
 # opendata-augsburg
 
-Linksammlung zu Open Data rund um Augsburg
+Linksammlung zu Open Data (oder Daten, die offen sein sollten) rund um Augsburg
 
 ## Augsburg
 
 * [Amt für Digitalisierung, Breitband und Vermessung Augsburg](http://www.vermessungsamt-augsburg.de)
+* [Fahrpläne der SWA](https://www.sw-augsburg.de/fahrgaeste/fahrplaene.php)
 * [OPUS - Augsburg University Publication Server](http://opus.bibliothek.uni-augsburg.de)
 
 ## Bayern
