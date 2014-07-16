@@ -13,3 +13,7 @@ Linksammlung zu Open Data (oder Daten, die offen sein sollten) rund um Augsburg
 
 * [Landesamt für Digitalisierung, Breitband und Vermessung](http://www.vermessung.bayern.de/opendata)
 * [OpenData-Portal des Freistaats Bayern](http://opendata.bayern.de)
+
+## Deutschland
+
+* [Code for Germany](http://codefor.de)
